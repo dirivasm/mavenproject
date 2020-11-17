@@ -19,7 +19,7 @@ public class endpointPracticeTest {
     }
 
     @Test
-    public void name() {
+    public void getCharaceters() {
         AutomationEndpointPractice endpointPractice = new AutomationEndpointPractice(this.page);
         List<CharacterPojo> listCharacters = endpointPractice.returnCharacters();
         for (CharacterPojo characterPojo : listCharacters) {
