@@ -1,5 +1,5 @@
 # mavenproject
-# pplaudoStudios
+# ApplaudoStudios
 Coding Challenge
 
 ## Installation
